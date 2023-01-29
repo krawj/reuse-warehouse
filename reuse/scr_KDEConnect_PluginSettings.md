@@ -1,0 +1,1 @@
+![Screenshot of the Plugin Settings panel](media/scr_KDEConnect_PluginSettings.png)
