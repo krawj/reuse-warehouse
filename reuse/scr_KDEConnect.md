@@ -1,1 +1,0 @@
-![Screenshot of the main KDE Connect window](media/scr_KDEConnect.png)
