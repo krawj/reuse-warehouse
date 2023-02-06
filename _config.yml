@@ -1,4 +1,5 @@
 title: [Indirect referencing of images]
+description: [How to use a simple trick to mitigate the pain of managing large collections of images in technical documentation.]
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
