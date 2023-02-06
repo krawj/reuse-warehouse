@@ -1,3 +1,4 @@
+title: [Indirect referencing of images]
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
